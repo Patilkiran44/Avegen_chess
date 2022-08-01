@@ -1,10 +1,6 @@
 
 # react-native-chess-Avegen
 
-
-The app is functional but codebase is unfortunately not clean. I want to improve the code quality and refactor duplicate code when I have some free time.
-
-
 ### Installation
 
 Clone this repo
