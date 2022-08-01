@@ -1,0 +1,6 @@
+module Pods_Avegen_chess1_Avegen_chess1Tests {
+  umbrella header "Pods-Avegen_chess1-Avegen_chess1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
